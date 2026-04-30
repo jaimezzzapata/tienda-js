@@ -1,6 +1,6 @@
 # 🛒 Tienda General — Vanilla JS MVC
 
-> Aplicación web de tienda de productos generales, construida con **JavaScript Vanilla** bajo el patrón de arquitectura **MVC (Modelo - Vista - Controlador)**, adaptado a un entorno sin conexión a base de datos. Toda la información se gestiona en memoria durante la sesión.
+> Aplicación web de tienda de productos generales, construida con **JavaScript Vanilla** bajo el patrón de arquitectura **MVC (Modelo - Vista - Controlador)**, adaptado a un entorno sin conexión a base de datos. Toda la información se gestiona en memoria durante la sesión..
 
 ---
 
